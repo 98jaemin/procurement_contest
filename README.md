@@ -1,6 +1,7 @@
 # 공공조달 빅데이터 경진대회
 
-<img width="500" src="/공공조달빅데이터경진대회_포스터.jpg" alt="공공조달빅데이터경진대회 포스터">
+<img src="https://user-images.githubusercontent.com/86872735/158399192-cc0458df-bc92-4e2c-919a-55c8581f919a.jpg" width="60%">
+
 </br>
 
 > ## 일정
